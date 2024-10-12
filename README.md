@@ -1,1 +1,1 @@
-# LoginRegister
+ # The above project is a simple Login-Register Form which is made using JSP page , Servelets , HTML and CSS along with it MySQL (Relational Database) is used as Database at backend . To run project Apache Tomcat is used as a Server.
